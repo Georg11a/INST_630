@@ -1,0 +1,47 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LEGO Bricks Data Visualization</title>
+  
+    <link rel="stylesheet" href="/css/style.css">
+    <script src="/js/script.js" defer type="module"></script>
+</head>
+<body>
+  <header class="fade-in">
+    <h1>LEGO Bricks Data Visualization</h1>
+  </header>
+  <main>
+      <div class="card-container fade-in">
+          <div class="card">
+              <h2>Data Statistics</h2>
+              <div id="stats-container">
+                <div class="stat-box">
+                  <h3>Total Colors</h3>
+                  <div id="colorCount" class="color-box">Loading...</div>
+                </div>
+                <div class="stat-box">
+                  <h3>Total Bricks</h3>
+                  <div id="brickCount" class="color-box">Loading...</div>
+                </div>
+              </div>
+              <p class="text-center">Click the button below to load LEGO brick data visualization</p>
+              <button type="button" id="loadLegoData">Load LEGO Data</button>
+          </div>
+
+          <div class="card">
+              <h2>LEGO Brick Visualization</h2>
+              <div class="container" id="data_target">
+                <!-- LEGO brick visualization will appear here -->
+                <div class="text-center" style="padding: 2rem;">
+                  <p>Click "Load LEGO Data" button to display visualization</p>
+                </div>
+              </div>
+          </div>
+      </div>
+    </main>
+    <footer class="text-center" style="padding: 1rem; background-color: var(--color-primary); color: white;">
+      <p>W8 by Georgia &copy; 2025</p>
+    </footer>
+</body>
+</html>

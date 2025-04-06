@@ -1,0 +1,661 @@
+[
+    {
+      "color_name": "Black",
+      "hex_color": "#05131D",
+      "total_bricks": 396589
+    },
+    {
+      "color_name": "White",
+      "hex_color": "#FFFFFF",
+      "total_bricks": 221570
+    },
+    {
+      "color_name": "Light Bluish Gray",
+      "hex_color": "#A0A5A9",
+      "total_bricks": 201930
+    },
+    {
+      "color_name": "Red",
+      "hex_color": "#C91A09",
+      "total_bricks": 169987
+    },
+    {
+      "color_name": "Dark Bluish Gray",
+      "hex_color": "#6C6E68",
+      "total_bricks": 148595
+    },
+    {
+      "color_name": "Yellow",
+      "hex_color": "#F2CD37",
+      "total_bricks": 120440
+    },
+    {
+      "color_name": "Blue",
+      "hex_color": "#0055BF",
+      "total_bricks": 117430
+    },
+    {
+      "color_name": "Light Gray",
+      "hex_color": "#9BA19D",
+      "total_bricks": 91793
+    },
+    {
+      "color_name": "Tan",
+      "hex_color": "#E4CD9E",
+      "total_bricks": 56381
+    },
+    {
+      "color_name": "Reddish Brown",
+      "hex_color": "#582A12",
+      "total_bricks": 46847
+    },
+    {
+      "color_name": "Green",
+      "hex_color": "#237841",
+      "total_bricks": 39490
+    },
+    {
+      "color_name": "Trans-Clear",
+      "hex_color": "#FCFCFC",
+      "total_bricks": 22145
+    },
+    {
+      "color_name": "Dark Gray",
+      "hex_color": "#6D6E5C",
+      "total_bricks": 21345
+    },
+    {
+      "color_name": "Orange",
+      "hex_color": "#FE8A18",
+      "total_bricks": 18194
+    },
+    {
+      "color_name": "Dark Red",
+      "hex_color": "#720E0F",
+      "total_bricks": 16827
+    },
+    {
+      "color_name": "Lime",
+      "hex_color": "#BBE90B",
+      "total_bricks": 14471
+    },
+    {
+      "color_name": "Trans-Red",
+      "hex_color": "#C91A09",
+      "total_bricks": 14134
+    },
+    {
+      "color_name": "Dark Tan",
+      "hex_color": "#958A73",
+      "total_bricks": 13976
+    },
+    {
+      "color_name": "Dark Blue",
+      "hex_color": "#0A3463",
+      "total_bricks": 12792
+    },
+    {
+      "color_name": "Trans-Light Blue",
+      "hex_color": "#AEEFEC",
+      "total_bricks": 11225
+    },
+    {
+      "color_name": "Pearl Gold",
+      "hex_color": "#AA7F2E",
+      "total_bricks": 11002
+    },
+    {
+      "color_name": "Brown",
+      "hex_color": "#583927",
+      "total_bricks": 8823
+    },
+    {
+      "color_name": "Flat Silver",
+      "hex_color": "#898788",
+      "total_bricks": 8757
+    },
+    {
+      "color_name": "Trans-Yellow",
+      "hex_color": "#F5CD2F",
+      "total_bricks": 8479
+    },
+    {
+      "color_name": "Medium Blue",
+      "hex_color": "#5A93DB",
+      "total_bricks": 8247
+    },
+    {
+      "color_name": "Trans-Dark Blue",
+      "hex_color": "#0020A0",
+      "total_bricks": 7458
+    },
+    {
+      "color_name": "Dark Green",
+      "hex_color": "#184632",
+      "total_bricks": 6812
+    },
+    {
+      "color_name": "Sand Green",
+      "hex_color": "#A0BCAC",
+      "total_bricks": 6681
+    },
+    {
+      "color_name": "Trans-Orange",
+      "hex_color": "#F08F1C",
+      "total_bricks": 6199
+    },
+    {
+      "color_name": "Trans-Neon Green",
+      "hex_color": "#F8F184",
+      "total_bricks": 5693
+    },
+    {
+      "color_name": "Dark Brown",
+      "hex_color": "#352100",
+      "total_bricks": 5661
+    },
+    {
+      "color_name": "Trans-Black",
+      "hex_color": "#635F52",
+      "total_bricks": 5636
+    },
+    {
+      "color_name": "Trans-Neon Orange",
+      "hex_color": "#FF800D",
+      "total_bricks": 5006
+    },
+    {
+      "color_name": "Bright Light Orange",
+      "hex_color": "#F8BB3D",
+      "total_bricks": 4944
+    },
+    {
+      "color_name": "Dark Purple",
+      "hex_color": "#3F3691",
+      "total_bricks": 4473
+    },
+    {
+      "color_name": "Dark Pink",
+      "hex_color": "#C870A0",
+      "total_bricks": 3974
+    },
+    {
+      "color_name": "Bright Green",
+      "hex_color": "#4B9F4A",
+      "total_bricks": 3916
+    },
+    {
+      "color_name": "Medium Dark Flesh",
+      "hex_color": "#CC702A",
+      "total_bricks": 3866
+    },
+    {
+      "color_name": "Dark Orange",
+      "hex_color": "#A95500",
+      "total_bricks": 3841
+    },
+    {
+      "color_name": "Trans-Green",
+      "hex_color": "#84B68D",
+      "total_bricks": 3635
+    },
+    {
+      "color_name": "Medium Azure",
+      "hex_color": "#36AEBF",
+      "total_bricks": 3617
+    },
+    {
+      "color_name": "Pearl Light Gray",
+      "hex_color": "#9CA3A8",
+      "total_bricks": 3507
+    },
+    {
+      "color_name": "Bright Pink",
+      "hex_color": "#E4ADC8",
+      "total_bricks": 3400
+    },
+    {
+      "color_name": "Magenta",
+      "hex_color": "#923978",
+      "total_bricks": 2919
+    },
+    {
+      "color_name": "[No Color]",
+      "hex_color": "#05131D",
+      "total_bricks": 2359
+    },
+    {
+      "color_name": "Pearl Dark Gray",
+      "hex_color": "#575857",
+      "total_bricks": 2325
+    },
+    {
+      "color_name": "Sand Blue",
+      "hex_color": "#6074A1",
+      "total_bricks": 2119
+    },
+    {
+      "color_name": "Olive Green",
+      "hex_color": "#9B9A5A",
+      "total_bricks": 2031
+    },
+    {
+      "color_name": "Metallic Silver",
+      "hex_color": "#A5A9B4",
+      "total_bricks": 1979
+    },
+    {
+      "color_name": "Medium Lavender",
+      "hex_color": "#AC78BA",
+      "total_bricks": 1973
+    },
+    {
+      "color_name": "Light Flesh",
+      "hex_color": "#F6D7B3",
+      "total_bricks": 1952
+    },
+    {
+      "color_name": "Trans-Dark Pink",
+      "hex_color": "#DF6695",
+      "total_bricks": 1934
+    },
+    {
+      "color_name": "Dark Azure",
+      "hex_color": "#078BC9",
+      "total_bricks": 1456
+    },
+    {
+      "color_name": "Chrome Gold",
+      "hex_color": "#BBA53D",
+      "total_bricks": 1340
+    },
+    {
+      "color_name": "Trans-Bright Green",
+      "hex_color": "#D9E4A7",
+      "total_bricks": 1190
+    },
+    {
+      "color_name": "Chrome Silver",
+      "hex_color": "#E0E0E0",
+      "total_bricks": 1175
+    },
+    {
+      "color_name": "Maersk Blue",
+      "hex_color": "#3592C3",
+      "total_bricks": 1156
+    },
+    {
+      "color_name": "Dark Turquoise",
+      "hex_color": "#008F9B",
+      "total_bricks": 1029
+    },
+    {
+      "color_name": "Trans-Purple",
+      "hex_color": "#A5A5CB",
+      "total_bricks": 966
+    },
+    {
+      "color_name": "Purple",
+      "hex_color": "#81007B",
+      "total_bricks": 862
+    },
+    {
+      "color_name": "Lavender",
+      "hex_color": "#E1D5ED",
+      "total_bricks": 849
+    },
+    {
+      "color_name": "Trans-Medium Blue",
+      "hex_color": "#CFE2F7",
+      "total_bricks": 747
+    },
+    {
+      "color_name": "Bright Light Blue",
+      "hex_color": "#9FC3E9",
+      "total_bricks": 686
+    },
+    {
+      "color_name": "Pink",
+      "hex_color": "#FC97AC",
+      "total_bricks": 661
+    },
+    {
+      "color_name": "Light Aqua",
+      "hex_color": "#ADC3C0",
+      "total_bricks": 600
+    },
+    {
+      "color_name": "Sand Red",
+      "hex_color": "#D67572",
+      "total_bricks": 565
+    },
+    {
+      "color_name": "Yellowish Green",
+      "hex_color": "#DFEEA5",
+      "total_bricks": 560
+    },
+    {
+      "color_name": "Bright Light Yellow",
+      "hex_color": "#FFF03A",
+      "total_bricks": 555
+    },
+    {
+      "color_name": "Metallic Gold",
+      "hex_color": "#DBAC34",
+      "total_bricks": 393
+    },
+    {
+      "color_name": "Royal Blue",
+      "hex_color": "#4C61DB",
+      "total_bricks": 294
+    },
+    {
+      "color_name": "Medium Orange",
+      "hex_color": "#FFA70B",
+      "total_bricks": 289
+    },
+    {
+      "color_name": "Trans-Pink",
+      "hex_color": "#E4ADC8",
+      "total_bricks": 260
+    },
+    {
+      "color_name": "Copper",
+      "hex_color": "#AE7A59",
+      "total_bricks": 240
+    },
+    {
+      "color_name": "Light Yellow",
+      "hex_color": "#FBE696",
+      "total_bricks": 235
+    },
+    {
+      "color_name": "Very Light Bluish Gray",
+      "hex_color": "#E6E3E0",
+      "total_bricks": 221
+    },
+    {
+      "color_name": "Aqua",
+      "hex_color": "#B3D7D1",
+      "total_bricks": 213
+    },
+    {
+      "color_name": "Blue-Violet",
+      "hex_color": "#6874CA",
+      "total_bricks": 197
+    },
+    {
+      "color_name": "Milky White",
+      "hex_color": "#FFFFFF",
+      "total_bricks": 187
+    },
+    {
+      "color_name": "Speckle Black-Silver",
+      "hex_color": "#000000",
+      "total_bricks": 187
+    },
+    {
+      "color_name": "Glow in Dark White",
+      "hex_color": "#D9D9D9",
+      "total_bricks": 186
+    },
+    {
+      "color_name": "Glitter Trans-Dark Pink",
+      "hex_color": "#DF6695",
+      "total_bricks": 181
+    },
+    {
+      "color_name": "Glow In Dark Opaque",
+      "hex_color": "#D4D5C9",
+      "total_bricks": 161
+    },
+    {
+      "color_name": "Medium Green",
+      "hex_color": "#73DCA1",
+      "total_bricks": 150
+    },
+    {
+      "color_name": "Trans-Very Lt Blue",
+      "hex_color": "#C1DFF0",
+      "total_bricks": 148
+    },
+    {
+      "color_name": "Unknown",
+      "hex_color": "#0033B2",
+      "total_bricks": 144
+    },
+    {
+      "color_name": "Dark Flesh",
+      "hex_color": "#7C503A",
+      "total_bricks": 133
+    },
+    {
+      "color_name": "Flesh",
+      "hex_color": "#D09168",
+      "total_bricks": 122
+    },
+    {
+      "color_name": "Violet",
+      "hex_color": "#4354A3",
+      "total_bricks": 111
+    },
+    {
+      "color_name": "Metal Blue",
+      "hex_color": "#7988A1",
+      "total_bricks": 107
+    },
+    {
+      "color_name": "Medium Lime",
+      "hex_color": "#C7D23C",
+      "total_bricks": 98
+    },
+    {
+      "color_name": "Light Violet",
+      "hex_color": "#C9CAE2",
+      "total_bricks": 95
+    },
+    {
+      "color_name": "Light Green",
+      "hex_color": "#C2DAB8",
+      "total_bricks": 90
+    },
+    {
+      "color_name": "Earth Orange",
+      "hex_color": "#FA9C1C",
+      "total_bricks": 78
+    },
+    {
+      "color_name": "Glow In Dark Trans",
+      "hex_color": "#BDC6AD",
+      "total_bricks": 75
+    },
+    {
+      "color_name": "Flat Dark Gold",
+      "hex_color": "#B48455",
+      "total_bricks": 73
+    },
+    {
+      "color_name": "Sand Purple",
+      "hex_color": "#845E84",
+      "total_bricks": 55
+    },
+    {
+      "color_name": "Light Blue",
+      "hex_color": "#B4D2E3",
+      "total_bricks": 53
+    },
+    {
+      "color_name": "Light Purple",
+      "hex_color": "#CD6298",
+      "total_bricks": 52
+    },
+    {
+      "color_name": "Chrome Blue",
+      "hex_color": "#6C96BF",
+      "total_bricks": 44
+    },
+    {
+      "color_name": "Fabuland Brown",
+      "hex_color": "#B67B50",
+      "total_bricks": 43
+    },
+    {
+      "color_name": "Glitter Trans-Purple",
+      "hex_color": "#A5A5CB",
+      "total_bricks": 34
+    },
+    {
+      "color_name": "Pearl White",
+      "hex_color": "#F2F3F2",
+      "total_bricks": 33
+    },
+    {
+      "color_name": "Chrome Pink",
+      "hex_color": "#AA4D8E",
+      "total_bricks": 32
+    },
+    {
+      "color_name": "Chrome Antique Brass",
+      "hex_color": "#645A4C",
+      "total_bricks": 30
+    },
+    {
+      "color_name": "Light Salmon",
+      "hex_color": "#FEBABD",
+      "total_bricks": 30
+    },
+    {
+      "color_name": "Pearl Light Gold",
+      "hex_color": "#DCBC81",
+      "total_bricks": 29
+    },
+    {
+      "color_name": "Trans-Light Purple",
+      "hex_color": "#96709F",
+      "total_bricks": 29
+    },
+    {
+      "color_name": "Metallic Green",
+      "hex_color": "#899B5F",
+      "total_bricks": 26
+    },
+    {
+      "color_name": "Glitter Trans-Light Blue",
+      "hex_color": "#68BCC5",
+      "total_bricks": 25
+    },
+    {
+      "color_name": "Light Orange",
+      "hex_color": "#F9BA61",
+      "total_bricks": 23
+    },
+    {
+      "color_name": "Glitter Trans-Clear",
+      "hex_color": "#FFFFFF",
+      "total_bricks": 22
+    },
+    {
+      "color_name": "Light Lime",
+      "hex_color": "#D9E4A7",
+      "total_bricks": 22
+    },
+    {
+      "color_name": "Sky Blue",
+      "hex_color": "#7DBFDD",
+      "total_bricks": 22
+    },
+    {
+      "color_name": "Medium Dark Pink",
+      "hex_color": "#F785B1",
+      "total_bricks": 20
+    },
+    {
+      "color_name": "Light Turquoise",
+      "hex_color": "#55A5AF",
+      "total_bricks": 17
+    },
+    {
+      "color_name": "Rust",
+      "hex_color": "#B31004",
+      "total_bricks": 13
+    },
+    {
+      "color_name": "Light Pink",
+      "hex_color": "#FECCCF",
+      "total_bricks": 12
+    },
+    {
+      "color_name": "Speckle DBGray-Silver",
+      "hex_color": "#635F61",
+      "total_bricks": 11
+    },
+    {
+      "color_name": "Trans-Neon Yellow",
+      "hex_color": "#DAB000",
+      "total_bricks": 10
+    },
+    {
+      "color_name": "Glitter Trans-Neon Green",
+      "hex_color": "#C0F500",
+      "total_bricks": 8
+    },
+    {
+      "color_name": "Speckle Black-Copper",
+      "hex_color": "#000000",
+      "total_bricks": 7
+    },
+    {
+      "color_name": "Pearl Very Light Gray",
+      "hex_color": "#ABADAC",
+      "total_bricks": 5
+    },
+    {
+      "color_name": "Speckle Black-Gold",
+      "hex_color": "#000000",
+      "total_bricks": 5
+    },
+    {
+      "color_name": "Dark Blue-Violet",
+      "hex_color": "#2032B0",
+      "total_bricks": 4
+    },
+    {
+      "color_name": "Very Light Gray",
+      "hex_color": "#E6E3DA",
+      "total_bricks": 4
+    },
+    {
+      "color_name": "Chrome Black",
+      "hex_color": "#1B2A34",
+      "total_bricks": 3
+    },
+    {
+      "color_name": "Salmon",
+      "hex_color": "#F2705E",
+      "total_bricks": 3
+    },
+    {
+      "color_name": "Chrome Green",
+      "hex_color": "#3CB371",
+      "total_bricks": 2
+    },
+    {
+      "color_name": "Medium Violet",
+      "hex_color": "#9391E4",
+      "total_bricks": 2
+    },
+    {
+      "color_name": "Trans Light Royal Blue",
+      "hex_color": "#B4D4F7",
+      "total_bricks": 2
+    },
+    {
+      "color_name": "Very Light Orange",
+      "hex_color": "#F3CF9B",
+      "total_bricks": 2
+    },
+    {
+      "hex_color": "#NA"
+    }
+  ]
+  

@@ -1,0 +1,167 @@
+/* LEGO brick styles */
+:root {
+  --lego-gap: 0.25rem;
+  --lego-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  --lego-radius: 0.25rem;
+  --lego-transition: all 0.3s ease;
+}
+
+/* Brick container */
+.lego-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-sm);
+  padding: var(--spacing-lg);
+  background-color: var(--color-gray);
+  border-radius: var(--border-radius);
+  max-width: 100%;
+  margin: var(--spacing-md) 0;
+  box-shadow: var(--shadow-sm);
+  transition: var(--lego-transition);
+}
+
+.lego-container:hover {
+  box-shadow: var(--shadow-md);
+}
+
+/* Brick block */
+.lego-block {
+  width: 2.5rem;
+  height: 1.25rem;
+  border-radius: var(--lego-radius);
+  flex-shrink: 0;
+  transition: var(--lego-transition);
+  margin: 0.25rem;
+  position: relative;
+  box-shadow: var(--lego-shadow);
+  cursor: pointer;
+}
+
+/* Brick hover effect */
+.lego-block:hover {
+  transform: translateY(-5px) scale(1.05);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  z-index: 10;
+}
+
+/* Brick top stud (first) */
+.lego-block::before {
+  content: "";
+  position: absolute;
+  top: -0.3rem;
+  left: 0.5rem;
+  width: 0.6rem;
+  height: 0.3rem;
+  background-color: inherit;
+  border-radius: var(--lego-radius) var(--lego-radius) 0 0;
+  opacity: 0.9;
+  box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.1);
+}
+
+/* Brick top stud (second) */
+.lego-block::after {
+  content: "";
+  position: absolute;
+  top: -0.3rem;
+  left: 1.3rem;
+  width: 0.6rem;
+  height: 0.3rem;
+  background-color: inherit;
+  border-radius: var(--lego-radius) var(--lego-radius) 0 0;
+  opacity: 0.9;
+  box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.1);
+}
+
+/* Chart container */
+.chart-container {
+  background-color: white;
+  border-radius: var(--border-radius);
+  padding: var(--spacing-lg);
+  box-shadow: var(--shadow-md);
+  margin: var(--spacing-md) 0;
+  transition: var(--lego-transition);
+}
+
+.chart-container:hover {
+  box-shadow: var(--shadow-lg);
+}
+
+/* Chart title */
+.chart-container h3 {
+  text-align: center;
+  color: var(--color-primary);
+  margin-bottom: var(--spacing-md);
+  padding-bottom: var(--spacing-sm);
+  border-bottom: 2px solid var(--color-highlight);
+}
+
+/* Bar chart row */
+.chart-container > div > div {
+  transition: var(--lego-transition);
+  padding: 0.3rem 0;
+}
+
+.chart-container > div > div:hover {
+  background-color: var(--color-gray);
+  border-radius: var(--border-radius);
+}
+
+/* Load button */
+#loadLegoData {
+  background: linear-gradient(135deg, var(--color-primary), var(--color-secondary));
+  border: none;
+  padding: var(--spacing-sm) var(--spacing-lg);
+  border-radius: var(--border-radius);
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: var(--lego-transition);
+  display: block;
+  margin: var(--spacing-md) auto;
+  box-shadow: var(--shadow-sm);
+}
+
+#loadLegoData:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-md);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .lego-container {
+    justify-content: center;
+  }
+  
+  .lego-block {
+    width: 2rem;
+    height: 1rem;
+  }
+  
+  .lego-block::before,
+  .lego-block::after {
+    width: 0.5rem;
+    height: 0.25rem;
+  }
+  
+  .lego-block::after {
+    left: 1.1rem;
+  }
+}
+
+/* Animation effects */
+@keyframes popIn {
+  0% {
+    transform: scale(0.8);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.lego-container .lego-block {
+  animation: popIn 0.5s ease-out forwards;
+  animation-delay: calc(var(--i, 0) * 0.05s);
+  opacity: 0;
+}
